@@ -1,3 +1,4 @@
+//@autor igor giuseppe (Elmapul)
 var WG=[]; //(wine-able games)
 WG[282900]="gold";	//neptunia rebirth 1
 WG[351710]="gold";	//neptunia rebirth 2
