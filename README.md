@@ -1,7 +1,7 @@
 # wineCheck
 verify if the game from the steam store runs on linux via wine.
 
-#how to use
+## how to use
 -navigate to the steam store on your browser, eg:
 http://store.steampowered.com/search/?sort_by=Released_DESC&category1=998
 
@@ -11,7 +11,7 @@ http://store.steampowered.com/search/?sort_by=Released_DESC&category1=998
 -copy the code from the file steamStore.js and paste on the console, then press enter
 -you can also configure an grease monkey script to do run this code everytime you open the store.
 
-#how to contribute
+## how to contribute
 search for the game that you want on steam store, and get it app id
 example on the URL
 http://store.steampowered.com/app/282900/Hyperdimension_Neptunia_ReBirth1___ReBirth1/
