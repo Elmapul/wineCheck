@@ -46,3 +46,5 @@ you may group other games from the same company (developer or publisher)
 * create the same script for gog, humble bundle etc.
 * add the "text: easy install" for games on playonlinux.
 * automatic search for the game on winehq (it may be slower or have cross site script issues)
+
+##let me know if anyone is already doing this!
