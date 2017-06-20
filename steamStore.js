@@ -135,9 +135,6 @@ WG[272510]="silver";//NARUTO SHIPPUDEN: Ultimate Ninja Storm Revolution
 WG[234670]="silver";//NARUTO SHIPPUDEN: Ultimate Ninja Storm 3 Full Burst 
 WG[349040]="untested";//NARUTO SHIPPUDEN: Ultimate Ninja Storm 4 Full Burst 
 
-
-
-
 //need more naruto games here
 
 //WG[]="";//FINAL FANTASY I ( avaliable for android)
@@ -199,7 +196,6 @@ WG[311340]="garbage";//METAL GEAR  SOLID V: GROUND ZEROES
 WG[287700]="garbage"; //METAL GEAR  SOLID V: THE PHANTON PAIN
 WG[132479]="garbage";  //METAL GEAR  SOLID V:The Definitive Experience
 
-
 WG[271590]="bronze";// Grand Theft Auto V
 WG[12210]="gold";// Grand Theft Auto IV
 WG[12100]="gold";// Grand Theft Auto III
@@ -213,84 +209,95 @@ WG[330390]="bronze";// Grandia II Aniversary Edition (bronze at best)
 WG[252330]="not tested";//Slender: The Arrival
 //WG[]="platinum";// Slender not on steam
 
-
-WG[]="platinum";//Tom Clamsy's Splinter Cell
-WG[]="platinum";//Tom Clamsy's Splinter Cell: Chaos Theory
-WG[]="gold";//Tom Clamsy's Splinter Cell: Double Agent
-WG[]="gold";//Tom Clamsy's Splinter Cell Blacklist
-WG[]="platinum";//Tom Clamsy's Splinter Cell: Conviction
+WG[13560]="platinum";//Tom Clamsy's Splinter Cell
+WG[13570]="platinum";//Tom Clamsy's Splinter Cell: Chaos Theory
+WG[13580]="gold";//Tom Clamsy's Splinter Cell: Double Agent
+WG[235600]="gold";//Tom Clamsy's Splinter Cell Blacklist
+//WG[]="platinum";//Tom Clamsy's Splinter Cell: Conviction
+WG[13540]="gold"; // Tom Clancy's Rainbow Six® Vegas
+WG[15120]="gold"; // Tom Clancy's Rainbow Six® Vegas 2
+WG[19830]="gold"; //Tom Clancy's Rainbow Six® 3 Gold (gold??)
+//Tom Clancy's Rainbow Six® Siege
 //WG[]="gold";//Tom Clamsy's Splinter Cell: pandora tomorrow
 //WG[]="";//Tom Clancy's Splinter Cell Elite Echelon Edition
-WG[]="gold";//Shantae: Risky's Revenge - Director's Cut
-WG[]="gold";//Shantae and the Pirate's Curse
-WG[]="gold";//Fable - The Lost Chapters
-WG[]="platinum";//Fable Aniversary
-WG[]="silver";//Hitman: Absolution
-WG[]="untested";//Hitman: Sniper Challenge
+WG[277890]="gold";//Shantae: Risky's Revenge - Director's Cut
+WG[345820]="gold";//Shantae and the Pirate's Curse
+WG[204030]="gold";//Fable - The Lost Chapters
+WG[288470]="platinum";//Fable Aniversary
+WG[203140]="silver";//Hitman: Absolution
+//WG[]="untested";//Hitman: Sniper Challenge
 
 //platinum
-WG[]="platinum";//Momodora: Reverie Under the Moonlight //
-WG[]="platinum";//Melty Blood Actress Again Current Code
+WG[428550]="platinum";//Momodora: Reverie Under the Moonlight //
+WG[411370]="platinum";//Melty Blood Actress Again Current Code
 
 //gold
-WG[]="gold";//Urban Chaos
-WG[]="gold";//Ultra Street Fighter IV
-WG[]="gold";//Silent Hill: Homecoming
-WG[]="gold";//WORLD END ECONOMiCA episode.02
+WG[243060]="gold";//Urban Chaos
+WG[45760]="gold";//Ultra Street Fighter IV
+WG[19000]="gold";//Silent Hill: Homecoming
+
+WG[368160]="gold";//WORLD END ECONOMiCA episode.02
+WG[527190]="gold";//WORLD END ECONOMiCA episode.03
 
 
 ///silver
-WG[]="silver";//NiGHTS into Dreams...
-WG[]="silver";//Street Fighter X Tekken
-WG[]="silver";//Blade Kitten
-WG[]="silver";//ONE PIECE PIRATE WARRIORS
-WG[]="silver";//Dragon Quest X
+WG[219950]="silver";//NiGHTS into Dreams...
+WG[209120]="silver";//Street Fighter X Tekken
+WG[9940]="silver";//Blade Kitten
+WG[331600]="silver";//ONE PIECE PIRATE WARRIORS
+WG[70503]="silver";//ONE PIECE PIRATE WARRIORS
+//One Piece Burning Blood 425220
+//WG[]="silver";//Dragon Quest X
 
 //bronze
-WG[]="bronze";//Magical Battle Festa
-WG[]="bronze";//Fairy Fencer F
-WG[]="bronze";//Watch Dogs
-WG[]="bronze";//Agarest Zero Generation of war 
+WG[292480]="bronze";//Magical Battle Festa
+WG[347830]="bronze";//Fairy Fencer F
+WG[524580]="bronze";//Fairy Fencer F Advent Dark Force 
+WG[243470]="bronze";//Watch Dogs
+WG[237890]="bronze";//Agarest Zero Generation of war 
 
-WG[]="platinum";//Earthworm jim
-WG[]="";//Earthworm Jim 2
-WG[]="";//Earthworm jim 3D
-WG[]="platinum";//Quake
-WG[]="gold";//Quake II
-WG[]="platinum";//quake 3 arena
-WG[]="gold";//Quake 4
-WG[]="platinum";//The Ultimate DOOM
-WG[]="platinum";//DOOM II: Hell on Earth
-WG[]="platinum";//DOOM 3
+WG[901147]="platinum";//Earthworm jim
+//WG[]="";//Earthworm Jim 2
+//WG[]="";//Earthworm jim 3D
+WG[2310]="platinum";//Quake
+WG[2320]="gold";//Quake II
+WG[2200]="platinum";//quake 3 arena
+WG[2210]="gold";//Quake 4
+WG[2280]="platinum";//The Ultimate DOOM
+WG[2300]="platinum";//DOOM II: Hell on Earth
+WG[208200]="platinum";//DOOM 3
+
+WG[379720]="platinum??";//DOOM novo
+
 
 //untested
-WG[]="";//Oceanhorn: Monster of Uncharted Seas
-WG[]="";//Natural Soccer
-WG[]="";//Tokyo School Life
-WG[]="";//Mitsurugi Kamui Hikae
-WG[]="";//YAIBA: NINJA GAIDEN Z
-WG[]="";//Gakkao Love 100%
-WG[]="";//Akiba's Trip
-WG[]="";//Moonrise
-WG[]="";//Yatagarasu Attack on Cataclysm
-WG[]="";//Battle Fantasia -Revisited Edition-
-WG[]="";//Agarest Zero 
-WG[]="";//FootLol 
-WG[]="";//Amnesia: Memories
-WG[]="";//Dragon Quest Heroes /////////
-WG[]="";//Arcana Heart 3 LOVE MAX!!!!! 
-WG[]="";//Momodora III
-WG[]="";//DreadOut: Keepers of The Dark
-WG[]="";//Gahkthun of the Golden Lightning Steam Edition
-WG[]="";//Sonic Lost World
-WG[]="";//Mugen Souls
-WG[]="";//Mayjasmine Episode01 - What is God?
-WG[]="";//Corpse Party 
-WG[]="";//Root Double -Before Crime * After Days- Xtend Edition
-WG[]="";//The House in Fata Morgana
-WG[]="";//Oblivious Garden ~Carmina Burana
-WG[]="";//Koihime Enbu 
-WG[]="";//Trouble Witches Origin 
+//WG[]="";//Oceanhorn: Monster of Uncharted Seas
+//WG[]="";//Natural Soccer
+//WG[]="";//Tokyo School Life
+//WG[]="";//Mitsurugi Kamui Hikae
+//WG[]="";//YAIBA: NINJA GAIDEN Z
+//WG[]="";//Gakkao Love 100%
+//WG[]="";//Akiba's Trip
+//WG[]="";//Moonrise
+//WG[]="";//Yatagarasu Attack on Cataclysm
+//WG[]="";//Battle Fantasia -Revisited Edition-
+//WG[]="";//Agarest Zero 
+//WG[]="";//FootLol 
+//WG[]="";//Amnesia: Memories
+//WG[]="";//Dragon Quest Heroes /////////
+//WG[]="";//Arcana Heart 3 LOVE MAX!!!!! 
+//WG[]="";//Momodora III
+//WG[]="";//DreadOut: Keepers of The Dark
+//WG[]="";//Gahkthun of the Golden Lightning Steam Edition
+//WG[]="";//Sonic Lost World
+//WG[]="";//Mugen Souls
+//WG[]="";//Mayjasmine Episode01 - What is God?
+//WG[]="";//Corpse Party 
+//WG[]="";//Root Double -Before Crime * After Days- Xtend Edition
+//WG[]="";//The House in Fata Morgana
+//WG[]="";//Oblivious Garden ~Carmina Burana
+//WG[]="";//Koihime Enbu 
+//WG[]="";//Trouble Witches Origin 
 
 
 
