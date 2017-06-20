@@ -45,6 +45,31 @@ WG[201870]="platinum";//Assassin's Creed: Revelations
 //Assassin’s Creed® Chronicles: Russia
 //Assassin’s Creed® Chronicles: india
 
+WG[13600]="gold"; //Prince of Persia®: The Sands of Time
+WG[13500]="platinum"; //Prince of Persia: Warrior Within™
+WG[13530]="platinum";//Prince of Persia: The Two Thrones™
+WG[19980]="platinum";//Prince of Persia®
+WG[33320]="gold"; //Prince of Persia: The Forgotten Sands™ //steam silver? 1.6 vs 1.7
+
+WG[323470]="platinum"; //// DRAGON BALL XENOVERSE 
+WG[454650]="bronze"; //// DRAGON BALL XENOVERSE 2
+WG[17390]="platinum"; // Spore
+WG[251770]="platinum"; // Shadow Man
+WG[294860]="platinum";// Valkyria Chronicles
+WG[11020]="platinum";// TrackMania Nations Forever
+WG[32360]="platinum";// The Secret of Monkey Island: Special Edition
+WG[6183]="gold";// The Secret of Monkey Island: Special  bundle?
+WG[32460]="gold";//Monkey Island™ 2 Special Edition: LeChuck’s Revenge
+WG[6910]="platinum";// Deux Ex: Game Of The Year Edition
+WG[8980]="platinum";// Borderlands
+WG[205950]="platinum";// Jet Set Radio
+WG[242980]="platinum";// Daikatana
+WG[4560]="platinum";// company of heroes
+//Mirror's Edge
+//Alice: Madness Returns
+//CLANNAD
+//Child of Light
+
 
 
 var aux1= document.getElementsByClassName("search_result_row");
