@@ -299,6 +299,22 @@ WG[379720]="platinum??";//DOOM novo
 //WG[]="";//Koihime Enbu 
 //WG[]="";//Trouble Witches Origin 
 
+WG[2620]="platinum"; //Call of Duty
+WG[2630]="platinum"; //Call of Duty 2
+//WG[2640]=""; //Call of Duty: United Offensive
+//WG[222]=""; //Call of Duty Warchest
+WG[7940]="platinum"; //Call of Duty® 4: Modern Warfare
+WG[10090]="platinum"; //Call of Duty: World at War
+WG[10180]="platinum"; //Call of Duty®: Modern Warfare 2
+WG[42700]="platinum"; //Call of Duty: Black Ops
+//WG[214630]="";//Call of Duty: Black Ops - Mac Edition
+WG[115300]="platinum"; //Call of Duty: Modern Warfare 3
+WG[202970]="garbage"; // Call of Duty®: Black Ops II
+WG[255163]="garbage"; // Call of Duty®: Ghosts - Digital Hardened Edition
+WG[209160]="garbage"; // Call of Duty®: Ghosts
+//WG[209650]=""; // Call of Duty®: Advanced Warfare - Gold Edition
+//WG[311210]=""; // Call of Duty®: Black Ops III
+//WG[292730]=""; // Call of Duty®: Infinite Warfare
 
 
 
