@@ -71,7 +71,7 @@ WG[324160]="platinum";//CLANNAD
 WG[420100]="platinum"; //CLANNAD Side Stories
 WG[462990]="gold";//Tomoyo After ~It's a Wonderful Life~ English Edition
 WG[256290]="platinum";//Child of Light
-
+//WG[]="platinum";//! Driver San Francisco
 
 WG[70400]="gold"; //Recettear: An Item Shop's Tale
 WG[218680]="gold"; //Scribblenauts Unlimited (3ds or remix android)
@@ -106,6 +106,166 @@ WG[420110]="untested";//NEKOPARA Vol. 2
 WG[602520]="untested";//NEKOPARA Vol. 3
 WG[311730]="gold";//Dead or Alive 5 Last Round (core fighters)
 
+WG[418340]="gold";//RWBY: Grimm Eclipse
+WG[233470]="platinum";//evoland
+WG[359310]="gold";//evoland2
+
+WG[372360]="bronze";//Tales of Symphonia
+WG[351970]="platinum";//351970 Tales of Zestiria
+WG[429660]="untested";// Tales of Berseria™
+
+WG[]="gold";//BlazBlue: calamity Trigger
+WG[]="gold";//BlazBlue: Continuum Shift Extended
+WG[]="silver";//BlazzBlue:Chronophantasma Extend
+
+WG[]="platinum";//Guilty Gear Isuka
+WG[]="gold";//Guilty Gear XX #Reload //Guilty Gear X2 #Reload
+WG[]="gold";//Gult Gear XX Accent Core Plus R
+WG[]="gold";//Gult Gear xrd -SIGN-
+WG[]="gold";//Guilty Gear Xrd -REVELATOR-
+
+WG[]="platinum";//Mirror's Edge
+WG[]="platinum";//Mass Effect
+WG[]="platinum";//Mass Effect 2
+//Mass Effect 3 (platinum origin)
+//Mass Effect Andromeda
+WG[]="silver";//NARUTO SHIPPUDEN: Ultimate Ninja Storm 3 Full Burst 
+WG[]="silver";//NARUTO SHIPPUDEN: Ultimate Ninja Storm Revolution 
+//need more naruto games here
+
+//WG[]="";//FINAL FANTASY I ( avaliable for android)
+//WG[]="";//FINAL FANTASY II ( avaliable for android)
+WG[239120]="";//FINAL FANTASY III (also avaliable for android)
+WG[312750]="gold";//FINAL FANTASY IV (also avaliable for android)
+WG[346830]="";//FINAL FANTASY IV : THE AFTER YEARS
+WG[382890]="";//FINAL FANTASY V
+WG[382900]="platinum";//FINAL FANTASY VI
+WG[39140]="gold";//FINAL FANTASY VII 
+WG[292120]="gold";//FINAL FANTASY VIII 
+WG[377840]="gold";//FINAL FANTASY IX (also avaliable for Android)
+WG[359870]="bronze";//FINAL FANTASY X/X-2 HD Remaster
+WG[292120]="gold";//FINAL FANTASY XIII
+WG[292140]="garbage";//FINAL FANTASY XIII-2
+WG[345350]="gold";//LIGHTNING RETURNS: FINAL FANTASY XIII
+WG[39210]="gold constant update";//FINAL FANTASY XIV: online ( A Realm Reborn?)
+WG[340170]="";//Final Fantasy Type-0 HD
+
+WG[211420]="platinum"; //Dark Souls: Prepare to Die Edition
+WG[236430]="gold"; //DARK SOULS II
+WG[236430]="garbage"; //DARK SOULS III
+//DARK SOULS II Crow of the Old Iron King
+//DARK SOULS II: Scholar of the First Sin
+WG[242550]="platinum"; //Rayman Legends
+WG[15080]="gold"; //Rayman: Raving Rabbids
+WG[207490]="platinum";  //Rayman Origins (tested on uplay)
+WG[220440]="";//DmC Devil May Cry
+WG[6550]="";//DmC Devil May Cry 3: Special Edition
+WG[45700]="";//DmC Devil May Cry 4
+WG[329050]="";//DmC Devil May Cry 4: Special Edition
+
+WG[339340]=""; //Resident Evil 0/ biohazard 0 HD REMASTER
+WG[304240]="";  //Resident Evil/ biohazard HD REMASTER
+WG[]=""; //Resident Evil 2
+WG[254700]=""; //Resident Evil 4/ biohazard 4
+WG[21690]=""; //Resident Evil 5/ biohazard 5
+WG[221040]=""; //Resident Evil 6/ biohazard 6
+WG[50980]="";  //Resident Evil 6/ biohazard 6  complete
+WG[]=""; //Resident Evil 4/5/6 Pack
+WG[530620]=""; //Resident Evil teaser: Beginning Hour
+WG[418370]=""; //Resident Evil 7/ biohazard 7
+WG[209100]=""; //Resident Evil Operation Raccoon City
+WG[16896]=""; //Resident Evil Operation Raccoon City complete pack
+WG[222480]=""; //Resident Evil Revelations/ Biohazard Revelations UE
+WG[287290]=""; //Resident Evil 2/ Biohazard Revelations 2
+WG[390340]=""; //Umbrella Corps™/Biohazard Umbrella Corps™
+
+WG[460790]=""; //bayonetta
+
+WG[6880]=""; //Just Cause 
+WG[8190]="";//Just Cause 2
+WG[225540]="";//Just Cause 3
+
+WG[]="";//Dead Island 2
+
+WG[235460]="";//METAL GEAR RISING: REVENGEANCE
+WG[311340]="";//METAL GEAR  SOLID V: GROUND ZEROES
+WG[287700]=""; //METAL GEAR  SOLID V: THE PHANTON PAIN
+WG[132479]="";  //METAL GEAR  SOLID V:The Definitive Experience
+WG[]="";//Tom Clamsy's Splinter Cell
+WG[]="";//Tom Clamsy's Splinter Cell: Chaos Theory
+WG[]="";//Tom Clamsy's Splinter Cell: Double Agent
+WG[]="";//Tom Clamsy's Splinter Cell Blacklist
+WG[]="";//Tom Clamsy's Splinter Cell: Conviction
+WG[]="";//Tom Clancy's Splinter Cell Elite Echelon Edition
+WG[]="";//Shantae: Risky's Revenge - Director's Cut
+WG[]="";//Shantae and the Pirate's Curse
+WG[]="";//Fable - The Lost Chapters
+WG[]="";//Fable Aniversary
+WG[]="";//Hitman: Absolution
+WG[]="";//Hitman: Sniper Challenge
+
+///silver
+WG[]="";//Urban Chaos
+WG[]="";//NiGHTS into Dreams...
+
+WG[]="";//Street Fighter X Tekken
+WG[]="";//Blade Kitten
+
+//bronze
+WG[]="";//Magical Battle Festa
+WG[]="";//Silent Hill: Homecoming
+WG[]="";//Fairy Fencer F
+
+//untested
+WG[]="";//Oceanhorn: Monster of Uncharted Seas
+WG[]="";//Natural Soccer
+WG[]="";//Tokyo School Life
+WG[]="";//Mitsurugi Kamui Hikae
+WG[]="";//YAIBA: NINJA GAIDEN Z
+WG[]="";//Gakkao Love 100%
+WG[]="";//Watch Dogs
+WG[]="";//Akiba's Trip
+WG[]="";//Moonrise
+WG[]="";//Yatagarasu Attack on Cataclysm
+WG[]="";//Battle Fantasia -Revisited Edition-
+WG[]="";//Agarest Zero (Generation of war tá bronze)
+WG[]="";//ONE PIECE PIRATE WARRIORS
+WG[]="";//FootLol 
+WG[]="";//Amnesia: Memories
+WG[]="";//Dragon Quest Heroes /////////
+WG[]="";//Arcana Heart 3 LOVE MAX!!!!! 
+WG[]="";//Momodora III
+WG[]="";//Momodora: Reverie Under the Moonlight
+WG[]="";//DreadOut: Keepers of The Dark
+WG[]="";//WORLD END ECONOMiCA episode.02
+WG[]="";//Gahkthun of the Golden Lightning Steam Edition
+WG[]="";//Sonic Lost World
+WG[]="";//Mugen Souls
+WG[]="";//Mayjasmine Episode01 - What is God?
+WG[]="";//Melty Blood Actress Again Current Code
+WG[]="";//Corpse Party 
+WG[]="";//Root Double -Before Crime * After Days- Xtend Edition
+WG[]="";//The House in Fata Morgana
+WG[]="";//Oblivious Garden ~Carmina Burana
+WG[]="";//Koihime Enbu 
+WG[]="";//Trouble Witches Origin ->
+
+WG[]="bronze";// Grand Theft Auto V
+WG[]="gold";// Grand Theft Auto IV
+WG[]="gold";// Grand Theft Auto III
+WG[]="platinum";// Grand Theft Auto II
+WG[]="platinum";// Grand Theft Auto: San Andreas
+WG[]="gold";// Grand Theft Auto: Vice City
+
+//garbage
+WG[]="";// Grandia II Aniversary Edition (bronze at best)
+WG[]="";//Slender: The Arrival
+WG[]="platinum";// Slender
+
+
+
+
+
 
 var aux1= document.getElementsByClassName("search_result_row");
 aux3=document.getElementsByClassName("responsive_search_name_combined");
@@ -121,4 +281,5 @@ for (i=0;i<25;i++){
   }
 
 }
+
 
