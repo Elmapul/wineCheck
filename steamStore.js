@@ -24,7 +24,27 @@ WG[35130]="platinum";//Lara Croft and the Guardian of Light
 WG[391220]="bronze";//Rise of Tomb Raider
 
 
-WG[]="";//
+WG[261570]="platinum";//ori and the blind forest
+WG[387290]="platinum";//ori and the blind forest definitive edition
+WG[]="";//ori and the Will of the Wisps
+
+WG[15100]="platinum";//Assasin's Creed director cut
+WG[15100]="platinum";//Assasin's Creed director cut
+WG[33230]="gold";//Assasin's Creed II
+WG[208480]="garbage";//Assasin's Creed III
+WG[48190]="platinum";//Assasin's Creed Brotherhood
+WG[201870]="platinum";//Assasin's Creed Revelations
+WG[354380]="gold";//Assasin's Creed Chronicles: China
+WG[277590]="untested";//Assasin's Creed Freedom Cry
+WG[260210]="garbage";//Assasin's Creed Libertion
+WG[242050]="silver";//Assasin's Creed IV Black Flag
+WG[311560]="silver";//Assasin's Creed Rogue
+WG[289650]="garbage";//Assasin's Creed Unity
+WG[368500]="garbage";//Assasin's Creed Syndicate
+WG[201870]="platinum";//Assassin's Creed: Revelations
+//Assassin’s Creed® Chronicles: Russia
+//Assassin’s Creed® Chronicles: india
+
 
 
 var aux1= document.getElementsByClassName("search_result_row");
