@@ -65,11 +65,46 @@ WG[8980]="platinum";// Borderlands
 WG[205950]="platinum";// Jet Set Radio
 WG[242980]="platinum";// Daikatana
 WG[4560]="platinum";// company of heroes
-//Mirror's Edge
-//Alice: Madness Returns
-//CLANNAD
-//Child of Light
+WG[17410]="platinum";//Mirror's Edge
+WG[19680]="platinum";//Alice: Madness Returns
+WG[324160]="platinum";//CLANNAD
+WG[420100]="platinum"; //CLANNAD Side Stories
+WG[462990]="gold";//Tomoyo After ~It's a Wonderful Life~ English Edition
+WG[256290]="platinum";//Child of Light
 
+
+WG[70400]="gold"; //Recettear: An Item Shop's Tale
+WG[218680]="gold"; //Scribblenauts Unlimited (3ds or remix android)
+WG[249870]="silver";// Scribblenauts unmasked
+
+//WG[]="gold"; //Alan Wake not on steam anymore
+WG[278080]="gold"; //DYNASTY WARRIORS 8: Xtreme Legends Complete Edition
+WG[322520]="untested";//DYNASTY WARRIORS® 8 Empires
+WG[23310]="platinum"; //The Last Remnant
+WG[283680]="gold"; //Astebreed
+WG[71250]="garbage"; //Sonic Adventure DX //demo isgold
+WG[259170]="gold"; //Alone in the dark
+WG[275060]="untested"; //Alone in the dark illumination
+
+WG[548090]="platinum"; //Alone in the dark 1
+WG[548890]=""; //Alone in the dark 2
+WG[548900]=""; //Alone in the dark 3
+WG[259190]="platinum";  //Alone in the Dark: The New Nightmare
+
+
+WG[251150]="gold";//The Legend of Heroes: Trails in the Sky
+WG[251290]="gold";//The Legend of Heroes: Trails in the Sky sc
+WG[436670]="gold";//The Legend of Heroes: Trails in the Sky 3rd
+WG[285310]="platinum";//RollerCoaster Tycoon®: Deluxe
+WG[285330]="gold";//RollerCoaster Tycoon 2: Triple Thrill pack
+WG[2700]="gold";//RollerCoaster Tycoon 3:Platinum
+WG[71230]="gold";//Crazy Taxi
+WG[316720]="gold";//Planetarian ~the reverie of a little planet~
+WG[385800]="untested";//NEKOPARA Vol. 0
+WG[333600]="gold";//NEKOPARA Vol. 1
+WG[420110]="untested";//NEKOPARA Vol. 2
+WG[602520]="untested";//NEKOPARA Vol. 3
+WG[311730]="gold";//Dead or Alive 5 Last Round (core fighters)
 
 
 var aux1= document.getElementsByClassName("search_result_row");
@@ -86,3 +121,4 @@ for (i=0;i<25;i++){
   }
 
 }
+
