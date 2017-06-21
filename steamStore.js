@@ -52,6 +52,65 @@ WG[13530]="platinum";//Prince of Persia: The Two Thrones™
 WG[19980]="platinum";//Prince of Persia®
 WG[33320]="gold"; //Prince of Persia: The Forgotten Sands™ //steam silver? 1.6 vs 1.7
 
+//sonic series
+WG[71250]="garbage"; //Sonic Adventure DX //demo isgold
+//WG[]="";//Sonic Lost World
+WG[34190]="gold";  //Sonic & SEGA All-Stars Racing
+WG[71340]="gold"; //Sonic Generations Collection
+WG[200940]="gold"; //Sonic CD
+WG[212480]="gold"; //Sonic & All-Stars Racing Transformed
+//WG[584400]=""; //Sonic Mania //unrelased
+
+WG[489830]="bronze"; //The Elder Scrolls V: Skyrim Special Edition
+//WG[364470]=""; //The Elder Scrolls®: Legends
+WG[900883]="platinum"; //The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe
+WG[22320]="platinum"; //The Elder Scrolls III: Morrowind® Game of the Year Edition
+WG[582880]="platinum"; //The Elder Scrolls Online - Morrowind
+
+WG[20900]="platinum"; //The Witcher: Enhanced Edition Director's Cut
+WG[292030]="bronze"; //The Witcher® 3: Wild Hunt
+WG[124923]="bronze"; //The Witcher 3: Wild Hunt - Game of the Year Edition
+WG[303800]="gold"; //The Witcher Adventure Game
+////////////////////////////
+//WG[]="gold"; //Pro Evolution Soccer 2015
+//WG[]="gold"; //Pro Evolution Soccer 2016
+WG[456610]=""; //Pro Evolution Soccer 2017
+WG[592580]=""; //Pro Evolution Soccer 2018
+
+
+WG[561600]="garbage";  //MXGP3 - The Official Motocross Videogame
+WG[504810]="not found"; //MXGP2 - The Official Motocross Videogame Compact
+WG[256370]="not found"; //MXGP - The Official Motocross Videogame
+WG[336010]="not found"; //MXGP - The Official Motocross Videogame Compact
+
+WG[356190]="garbage"; //Middle-earth™: Shadow of War™
+WG[32800]="silver"; //Lord of the Rings: War in the North
+WG[212500]="platinum"; //The Lord of the Rings Online™ //constant update
+
+WG[11140]="platinum"; //Sherlock Holmes: The Awakened - Remastered Edition
+WG[241260]="gold"; //Sherlock Holmes: Crimes and Punishments
+//WG[11040]=""; //Sherlock Holmes - Nemesis
+//WG[374010]=""; //Sherlock Holmes Consulting Detective: The Case of the Mummy's Curse
+//WG[376790]=""; //Sherlock Holmes Consulting Detective: The Case of the Mystified Murderess
+//WG[350640]=""; //Sherlock Holmes: The Devil's Daughter
+
+
+
+WG[31220]=""; //Sam & Max 301: The Penal Zone
+WG[31230]=""; //Sam & Max 302: The Tomb of Sammun-Mak
+WG[31240]=""; //Sam & Max 303: They Stole Max's Brain!
+WG[31250]=""; //Sam & Max 304: Beyond the Alley of the Dolls
+WG[31260]=""; //Sam & Max 305: The City That Dares Not Sleep
+WG[901660]=""; //Sam & Max: Season One
+
+WG[12140]=""; //Max Payne
+WG[12150]=""; //Max Payne 2: The Fall of Max Payne
+WG[204100]=""; //Max Payne 3
+
+
+
+
+
 WG[323470]="platinum"; //// DRAGON BALL XENOVERSE 
 WG[454650]="bronze"; //// DRAGON BALL XENOVERSE 2
 WG[17390]="platinum"; // Spore
@@ -83,7 +142,6 @@ WG[278080]="gold"; //DYNASTY WARRIORS 8: Xtreme Legends Complete Edition
 WG[322520]="untested";//DYNASTY WARRIORS® 8 Empires
 WG[23310]="platinum"; //The Last Remnant
 WG[283680]="gold"; //Astebreed
-WG[71250]="garbage"; //Sonic Adventure DX //demo isgold
 WG[259170]="gold"; //Alone in the dark
 WG[275060]="untested"; //Alone in the dark illumination
 
@@ -311,7 +369,7 @@ WG[379720]="platinum??";//DOOM novo
 //WG[]="";//Momodora III
 //WG[]="";//DreadOut: Keepers of The Dark
 //WG[]="";//Gahkthun of the Golden Lightning Steam Edition
-//WG[]="";//Sonic Lost World
+
 //WG[]="";//Mugen Souls
 //WG[]="";//Mayjasmine Episode01 - What is God?
 //WG[]="";//Corpse Party 
