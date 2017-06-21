@@ -9,7 +9,8 @@ http://store.steampowered.com/search/?sort_by=Released_DESC&category1=998
 2. click on the console tab
 3. if that is your first time running code on console, type allow pasting then press enter
 4. copy the code from the file steamStore.js and paste on the console, then press enter
-5. you can also configure an grease monkey script to do run this code everytime you open the store.
+##or
+1.you can configure an grease monkey script to do run this code everytime you open the store.
 
 ## how to contribute
 1. search for the game that you want on steam store, and get it app id
