@@ -23,8 +23,6 @@ WG[35130]="platinum";//Lara Croft and the Guardian of Light
 //203160 Tomb Raider (2013) nativo //platinum
 WG[391220]="bronze";//Rise of Tomb Raider
 
-
-
 WG[261570]="platinum";//ori and the blind forest
 WG[387290]="platinum";//ori and the blind forest definitive edition
 //WG[]="";//ori and the Will of the Wisps
@@ -71,12 +69,11 @@ WG[20900]="platinum"; //The Witcher: Enhanced Edition Director's Cut
 WG[292030]="bronze"; //The Witcher® 3: Wild Hunt
 WG[124923]="bronze"; //The Witcher 3: Wild Hunt - Game of the Year Edition
 WG[303800]="gold"; //The Witcher Adventure Game
-////////////////////////////
+
 //WG[]="gold"; //Pro Evolution Soccer 2015
 //WG[]="gold"; //Pro Evolution Soccer 2016
 WG[456610]=""; //Pro Evolution Soccer 2017
 WG[592580]=""; //Pro Evolution Soccer 2018
-
 
 WG[561600]="garbage";  //MXGP3 - The Official Motocross Videogame
 WG[504810]="not found"; //MXGP2 - The Official Motocross Videogame Compact
@@ -93,23 +90,18 @@ WG[241260]="gold"; //Sherlock Holmes: Crimes and Punishments
 //WG[374010]=""; //Sherlock Holmes Consulting Detective: The Case of the Mummy's Curse
 //WG[376790]=""; //Sherlock Holmes Consulting Detective: The Case of the Mystified Murderess
 //WG[350640]=""; //Sherlock Holmes: The Devil's Daughter
+////////////////////////////
 
+WG[31220]="gold"; //Sam & Max 301: The Penal Zone
+WG[31230]="not tested"; //Sam & Max 302: The Tomb of Sammun-Mak
+WG[31240]="gold"; //Sam & Max 303: They Stole Max's Brain!
+WG[31250]="not tested"; //Sam & Max 304: Beyond the Alley of the Dolls
+WG[31260]="not tested"; //Sam & Max 305: The City That Dares Not Sleep
+WG[901660]="not found"; //Sam & Max: Season One
 
-
-WG[31220]=""; //Sam & Max 301: The Penal Zone
-WG[31230]=""; //Sam & Max 302: The Tomb of Sammun-Mak
-WG[31240]=""; //Sam & Max 303: They Stole Max's Brain!
-WG[31250]=""; //Sam & Max 304: Beyond the Alley of the Dolls
-WG[31260]=""; //Sam & Max 305: The City That Dares Not Sleep
-WG[901660]=""; //Sam & Max: Season One
-
-WG[12140]=""; //Max Payne
-WG[12150]=""; //Max Payne 2: The Fall of Max Payne
-WG[204100]=""; //Max Payne 3
-
-
-
-
+WG[12140]="platinum"; //Max Payne
+WG[12150]="platinum"; //Max Payne 2: The Fall of Max Payne
+WG[204100]="platinum"; //Max Payne 3
 
 WG[323470]="platinum"; //// DRAGON BALL XENOVERSE 
 WG[454650]="bronze"; //// DRAGON BALL XENOVERSE 2
@@ -150,7 +142,6 @@ WG[548890]=""; //Alone in the dark 2
 WG[548900]=""; //Alone in the dark 3
 WG[259190]="platinum";  //Alone in the Dark: The New Nightmare
 
-
 WG[251150]="gold";//The Legend of Heroes: Trails in the Sky
 WG[251290]="gold";//The Legend of Heroes: Trails in the Sky sc
 WG[436670]="gold";//The Legend of Heroes: Trails in the Sky 3rd
@@ -173,7 +164,6 @@ WG[372360]="bronze";//Tales of Symphonia
 WG[351970]="platinum";//351970 Tales of Zestiria
 WG[429660]="gold-issues"; // gold-Used cpy crack, to disable denuvo. //Tales of Berseria
 
-
 WG[263300]="gold";//BlazBlue: calamity Trigger
 WG[294810]="gold";//BlazBlue: Continuum Shift Extended
 WG[388750]="silver";//BlazBlue:Chronophantasma Extend
@@ -194,7 +184,6 @@ WG[901242]="platinum";//Mass Effect 2 Digital deluxe
 WG[272510]="silver";//NARUTO SHIPPUDEN: Ultimate Ninja Storm Revolution 
 WG[234670]="silver";//NARUTO SHIPPUDEN: Ultimate Ninja Storm 3 Full Burst 
 WG[349040]="untested";//NARUTO SHIPPUDEN: Ultimate Ninja Storm 4 Full Burst 
-
 //need more naruto games here
 
 //WG[]="";//FINAL FANTASY I ( avaliable for android)
@@ -285,13 +274,10 @@ WG[345820]="gold";//Shantae and the Pirate's Curse
 WG[204030]="gold";//Fable - The Lost Chapters
 WG[288470]="platinum";//Fable Aniversary
 
-
 WG[203140]="silver";//Hitman: Absolution
 WG[247430]="platinum";  //Hitman: Contracts
 WG[6860]="platinum";  //Hitman: Blood Money
 WG[6850]="platinum";  //Hitman 2: Silent Assassin
-
-
 //WG[]="untested";//Hitman: Sniper Challenge
 
 //platinum
@@ -300,21 +286,13 @@ WG[405900]="platinum";  //Disgaea PC
 WG[428550]="platinum";//Momodora: Reverie Under the Moonlight //
 WG[411370]="platinum";//Melty Blood Actress Again Current Code
 
-
-
-
 //gold
 WG[243060]="gold";//Urban Chaos
 WG[45760]="gold";//Ultra Street Fighter IV
 WG[19000]="gold";//Silent Hill: Homecoming
-
 WG[368160]="gold";//WORLD END ECONOMiCA episode.02
 WG[527190]="gold";//WORLD END ECONOMiCA episode.03
-
 WG[412830]="gold";  //STEINS;GATE
-
-
-
 
 ///silver
 WG[219950]="silver";//NiGHTS into Dreams...
@@ -331,10 +309,7 @@ WG[347830]="bronze";//Fairy Fencer F
 WG[524580]="bronze";//Fairy Fencer F Advent Dark Force 
 WG[243470]="bronze";//Watch Dogs
 WG[237890]="bronze";//Agarest Zero Generation of war 
-
 WG[524220]="bronze";//NieR:Automata
-
-
 
 WG[901147]="platinum";//Earthworm jim
 //WG[]="";//Earthworm Jim 2
@@ -346,9 +321,7 @@ WG[2210]="gold";//Quake 4
 WG[2280]="platinum";//The Ultimate DOOM
 WG[2300]="platinum";//DOOM II: Hell on Earth
 WG[208200]="platinum";//DOOM 3
-
 WG[379720]="platinum??";//DOOM novo
-
 
 //untested
 //WG[]="";//Oceanhorn: Monster of Uncharted Seas
@@ -396,8 +369,6 @@ WG[209160]="garbage"; // Call of Duty®: Ghosts
 //WG[311210]=""; // Call of Duty®: Black Ops III
 //WG[292730]=""; // Call of Duty®: Infinite Warfare
 
-
-
 var aux1= document.getElementsByClassName("search_result_row");
 aux3=document.getElementsByClassName("responsive_search_name_combined");
 
@@ -410,7 +381,4 @@ for (i=0;i<25;i++){
     aux5=aux4.children[1];
     aux5.innerHTML=aux5.innerHTML+'<span class="platform_img linux"></span>' +WG[num];
   }
-
 }
-
-
