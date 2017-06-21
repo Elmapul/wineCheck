@@ -284,29 +284,29 @@ WG[268260]="not tested"; //Let's Sing
 WG[397820]="not tested"; //Let's Sing 2016
 
 ////////////////////////////
-WG[331750]="platinum"; //Disney•Pixar WALL-E
-WG[332260]=""; //Disney•Pixar Cars Mater-National Championship
-WG[331450]=""; //Disney•Pixar Finding Nemo
-WG[300820]=""; //Disney•Pixar Toy Story 3: The Video Game
-WG[317580]=""; //Disney•Pixar Toy Story Mania!
-WG[316320]=""; //Disney•Pixar Cars Toon: Mater's Tall Tales
-WG[301760]=""; //Disney•Pixar Cars 2: The Video Game
-WG[331160]=""; //Disney•Pixar Cars
-WG[319080]=""; //Disney Princess: My Fairytale Adventure
-WG[340990]=""; //Disney Bolt
-WG[346060]=""; //Disney High School Musical 3: Senior Year Dance
-WG[316260]=""; //Disney Universe
-WG[541640]=""; //Disney Infinity 1.0: Gold Edition
-WG[339040]=""; //Disney's Chicken Little
-WG[318950]=""; //Disney's Tangled
-WG[318350]=""; //Disney Fairies: Tinker Bell's Adventure
-WG[319400]=""; //Disney Winnie the Pooh
-WG[286880]=""; //Disney Planes
-WG[316030]=""; //Disney Alice in Wonderland
-
 WG[394160]=""; //ARCADE GAME SERIES: PAC-MAN
 WG[403400]=""; //ARCADE GAME SERIES: DIG DUG
 WG[403430]=""; ///ARCADE GAME SERIES: GALAGA
+
+WG[331750]="platinum"; //Disney•Pixar WALL-E
+WG[332260]="not tested"; //Disney•Pixar Cars Mater-National Championship
+WG[331450]="garbage"; //Disney•Pixar Finding Nemo
+WG[300820]="not tested"; //Disney•Pixar Toy Story 3: The Video Game
+WG[317580]="not tested"; //Disney•Pixar Toy Story Mania!
+WG[316320]="not tested"; //Disney•Pixar Cars Toon: Mater's Tall Tales
+WG[301760]="not tested"; //Disney•Pixar Cars 2: The Video Game
+WG[331160]="platinum"; //Disney•Pixar Cars
+WG[319080]="no tested"; //Disney Princess: My Fairytale Adventure
+WG[340990]="silver"; //Disney Bolt
+WG[346060]="not tested"; //Disney High School Musical 3: Senior Year Dance
+WG[316260]="not tested"; //Disney Universe
+WG[541640]="not tested"; //Disney Infinity 1.0: Gold Edition //3 is garbage
+WG[339040]="not tested"; //Disney's Chicken Little
+WG[318950]="not tested"; //Disney's Tangled
+WG[318350]="not tested"; //Disney Fairies: Tinker Bell's Adventure
+WG[319400]="not tested"; //Disney Winnie the Pooh
+WG[286880]="bronze"; //Disney Planes
+WG[316030]="not tested"; //Disney Alice in Wonderland
 
 WG[32430]=""; //STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition
 WG[32500]=""; //STAR WARS™: The Force Unleashed™ II
