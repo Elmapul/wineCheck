@@ -276,7 +276,7 @@ WG[227780]="not found"; //Serious Sam Classics: Revolution //wait for the vulkan
 WG[63710]="platinum"; //BIT.TRIP RUNNER
 WG[205070]="not found"; //BIT.TRIP VOID
 
-WG[]="bronze"; //Pro Cycling Manager 2013
+//WG[]="bronze"; //Pro Cycling Manager 2013
 WG[255260]="garbage"; //Pro Cycling Manager 2014
 WG[408760]=""; //Pro Cycling Manager 2016
 
