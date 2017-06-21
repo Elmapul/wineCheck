@@ -162,26 +162,6 @@ WG[4760]="platinum"; //Rome: Total War - Collection
 WG[34030]="gold"; //Napoleon: Total War
 WG[345240]="bronze"; //SHOGUN: Total War™ - Collection
 WG[4770]="garbage"; //Rome: Total War™ - Alexander
-////////////////////////////
-WG[331750]="platinum"; //Disney•Pixar WALL-E
-WG[332260]=""; //Disney•Pixar Cars Mater-National Championship
-WG[331450]=""; //Disney•Pixar Finding Nemo
-WG[300820]=""; //Disney•Pixar Toy Story 3: The Video Game
-WG[317580]=""; //Disney•Pixar Toy Story Mania!
-WG[316320]=""; //Disney•Pixar Cars Toon: Mater's Tall Tales
-WG[301760]=""; //Disney•Pixar Cars 2: The Video Game
-WG[331160]=""; //Disney•Pixar Cars
-WG[319080]=""; //Disney Princess: My Fairytale Adventure
-WG[340990]=""; //Disney Bolt
-WG[346060]=""; //Disney High School Musical 3: Senior Year Dance
-WG[316260]=""; //Disney Universe
-WG[541640]=""; //Disney Infinity 1.0: Gold Edition
-WG[339040]=""; //Disney's Chicken Little
-WG[318950]=""; //Disney's Tangled
-WG[318350]=""; //Disney Fairies: Tinker Bell's Adventure
-WG[319400]=""; //Disney Winnie the Pooh
-WG[286880]=""; //Disney Planes
-WG[316030]=""; //Disney Alice in Wonderland
 
 WG[48240]="platinum"; //Anno 2070
 WG[375910]="garbage"; //Anno 2205
@@ -274,12 +254,12 @@ WG[332310]="gold"; //LEGO® Worlds
 WG[438640]="gold"; //LEGO® STAR WARS™: The Force Awakens 
 WG[267530]="silver"; //The LEGO® Movie - Videogame
 
-WG[226320]=""; //Marvel Heroes 2016
-WG[433300]=""; //Marvel: Ultimate Alliance
-WG[433320]=""; //Marvel: Ultimate Alliance 2
-WG[493840]=""; //Marvel vs. Capcom: Infinite
-WG[357190]=""; //ULTIMATE MARVEL VS. CAPCOM 3
-WG[24200]=""; //DC Universe™ Online
+WG[226320]="garbage"; //Marvel Heroes 2016
+WG[433300]="gold"; //Marvel: Ultimate Alliance
+WG[433320]="not found"; //Marvel: Ultimate Alliance 2
+WG[493840]="not tested"; //Marvel vs. Capcom: Infinite //does this that even launched?
+WG[357190]="gold"; //ULTIMATE MARVEL VS. CAPCOM 3
+WG[24200]="gold"; //DC Universe™ Online
 
 WG[319510]="platinum";  //Five Nights at Freddy's 
 WG[332800]="platinum";  //Five Nights at Freddy's 2
@@ -296,11 +276,33 @@ WG[227780]="not found"; //Serious Sam Classics: Revolution //wait for the vulkan
 WG[63710]="platinum"; //BIT.TRIP RUNNER
 WG[205070]="not found"; //BIT.TRIP VOID
 
-WG[255260]=""; //Pro Cycling Manager 2014
+WG[]="bronze"; //Pro Cycling Manager 2013
+WG[255260]="garbage"; //Pro Cycling Manager 2014
 WG[408760]=""; //Pro Cycling Manager 2016
 
-WG[268260]=""; //Let's Sing
-WG[397820]=""; //Let's Sing 2016
+WG[268260]="not tested"; //Let's Sing
+WG[397820]="not tested"; //Let's Sing 2016
+
+////////////////////////////
+WG[331750]="platinum"; //Disney•Pixar WALL-E
+WG[332260]=""; //Disney•Pixar Cars Mater-National Championship
+WG[331450]=""; //Disney•Pixar Finding Nemo
+WG[300820]=""; //Disney•Pixar Toy Story 3: The Video Game
+WG[317580]=""; //Disney•Pixar Toy Story Mania!
+WG[316320]=""; //Disney•Pixar Cars Toon: Mater's Tall Tales
+WG[301760]=""; //Disney•Pixar Cars 2: The Video Game
+WG[331160]=""; //Disney•Pixar Cars
+WG[319080]=""; //Disney Princess: My Fairytale Adventure
+WG[340990]=""; //Disney Bolt
+WG[346060]=""; //Disney High School Musical 3: Senior Year Dance
+WG[316260]=""; //Disney Universe
+WG[541640]=""; //Disney Infinity 1.0: Gold Edition
+WG[339040]=""; //Disney's Chicken Little
+WG[318950]=""; //Disney's Tangled
+WG[318350]=""; //Disney Fairies: Tinker Bell's Adventure
+WG[319400]=""; //Disney Winnie the Pooh
+WG[286880]=""; //Disney Planes
+WG[316030]=""; //Disney Alice in Wonderland
 
 WG[394160]=""; //ARCADE GAME SERIES: PAC-MAN
 WG[403400]=""; //ARCADE GAME SERIES: DIG DUG
