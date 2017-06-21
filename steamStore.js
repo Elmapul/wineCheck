@@ -308,33 +308,35 @@ WG[319400]="not tested"; //Disney Winnie the Pooh
 WG[286880]="bronze"; //Disney Planes
 WG[316030]="not tested"; //Disney Alice in Wonderland
 
-WG[32430]=""; //STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition
-WG[32500]=""; //STAR WARS™: The Force Unleashed™ II
-WG[32350]=""; //STAR WARS™ Starfighter™
-WG[6020]=""; //STAR WARS™ Jedi Knight - Jedi Academy™ (gog?)
-WG[32390]=""; //STAR WARS™ Jedi Knight - Mysteries of the Sith™ (gog?
-WG[32400]=""; //STAR WARS™ - Dark Forces (gog?)
-WG[6030]=""; //STAR WARS™ Jedi Knight II - Jedi Outcast™ (Gog?)
-WG[32380]=""; //STAR WARS™ Jedi Knight: Dark Forces II (gog?)
-WG[32370]=""; //STAR WARS™ - Knights of the Old Republic™ (gog?)
-WG[6060]=""; //STAR WARS™ Battlefront™ II (gog?)
-WG[32470]=""; //STAR WARS™ Empire at War - Gold Pack (gog?)
-WG[456540]=""; //STAR WARS™: Rebel Assault I + II (gog?)
-WG[361670]=""; ///STAR WARS™ - X-Wing Alliance™ (gog?)
+WG[32430]="gold"; //STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition
+WG[32500]="not tested"; //STAR WARS™: The Force Unleashed™ II
+WG[32350]="silver"; //STAR WARS™ Starfighter™
+WG[6020]="platinum"; //STAR WARS™ Jedi Knight - Jedi Academy™ 
+WG[32390]="not tested"; //STAR WARS™ Jedi Knight - Mysteries of the Sith™ 
+WG[6030]=""; //STAR WARS™ Jedi Knight II - Jedi Outcast™ (Gog?) 
+WG[32400]="gog"; //STAR WARS™ - Dark Forces
+//WG[]="gold"; //STAR WARS™ - Dark Forces 2
+WG[32380]="gold-issues"; //STAR WARS™ Jedi Knight: Dark Forces II //unoficial patch
+WG[32370]="platinum-android"; //STAR WARS™ - Knights of the Old Republic™ 
+WG[6060]="not tested"; //STAR WARS™ Battlefront™ II 
+WG[32470]="platinum"; //STAR WARS™ Empire at War - Gold Pack 
+WG[456540]="gog"; //STAR WARS™: Rebel Assault I + II 
+WG[361670]="bronze"; ///STAR WARS™ - X-Wing Alliance™ (gog?)
+//Star Wars: Rogue Squadron 3D gold
 
 WG[4570]=""; //Warhammer® 40,000: Dawn of War® - Game of the Year Edition
 WG[4580]=""; //Warhammer® 40,000: Dawn of War® - Dark Crusade
 //need more warhamer series
 
 ////////////////////////////
-WG[571260]=""; //THE KING OF FIGHTERS XIV STEAM EDITION
-WG[222420]=""; //THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION
-WG[222940]=""; //THE KING OF FIGHTERS XIII STEAM EDITION
-WG[222440]=""; //THE KING OF FIGHTERS 2002 UNLIMITED MATCH
+WG[571260]="not tested"; //THE KING OF FIGHTERS XIV STEAM EDITION
+WG[222420]="bronze"; //THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION
+WG[222940]="platinum"; //THE KING OF FIGHTERS XIII STEAM EDITION
+WG[222440]="platinum-gog"; //THE KING OF FIGHTERS 2002 UNLIMITED MATCH  //gog is not unlimited match
 
-WG[250180]=""; //METAL SLUG 3 //gog ou humble
-WG[312610]=""; //METAL SLUG X //gog ou humble
-WG[366260]=""; //METAL SLUG 2
+WG[250180]=""; //METAL SLUG 3 
+WG[312610]="silver"; //METAL SLUG X 
+WG[366260]="hb"; //METAL SLUG 2 //humble bundle
 WG[366250]=""; //METAL SLUG
 
 WG[32310]="gog"; //Indiana Jones® and the Last Crusade™
