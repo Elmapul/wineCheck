@@ -163,7 +163,7 @@ WG[34030]="gold"; //Napoleon: Total War
 WG[345240]="bronze"; //SHOGUN: Total War™ - Collection
 WG[4770]="garbage"; //Rome: Total War™ - Alexander
 ////////////////////////////
-WG[331750]=""; //Disney•Pixar WALL-E
+WG[331750]="platinum"; //Disney•Pixar WALL-E
 WG[332260]=""; //Disney•Pixar Cars Mater-National Championship
 WG[331450]=""; //Disney•Pixar Finding Nemo
 WG[300820]=""; //Disney•Pixar Toy Story 3: The Video Game
@@ -183,24 +183,118 @@ WG[319400]=""; //Disney Winnie the Pooh
 WG[286880]=""; //Disney Planes
 WG[316030]=""; //Disney Alice in Wonderland
 
-WG[48240]=""; //Anno 2070
-WG[375910]=""; //Anno 2205
+WG[48240]="platinum"; //Anno 2070
+WG[375910]="garbage"; //Anno 2205
 
-WG[21670]=""; //Bionic Commando
-WG[21680]=""; //Bionic Commando: Rearmed
+WG[21670]="bronze"; //Bionic Commando
+WG[21680]="platinum"; //Bionic Commando: Rearmed
 
-WG[33620]=""; //Crash Time 3
-WG[11390]=""; //Crash Time 2
+WG[33620]="platinum"; //Crash Time 3
+WG[11390]="bronze"; //Crash Time 2
 
-WG[45740]=""; //Dead Rising® 2
-WG[45770]=""; //Dead Rising 2: Off the Record
+WG[45740]="gold"; //Dead Rising® 2
+WG[45770]="gold"; //Dead Rising 2: Off the Record
 
-WG[298890]=""; //Adventure Time: The Secret Of The Nameless Kingdom
-WG[258590]=""; //Adventure Time: Finn and Jake's Epic Quest
-WG[412790]=""; //Adventure Time: Magic Man's Head Games
+WG[298890]="not tested"; //Adventure Time: The Secret Of The Nameless Kingdom
+WG[258590]="not tested"; //Adventure Time: Finn and Jake's Epic Quest
+WG[412790]="not tested"; //Adventure Time: Magic Man's Head Games
 
-WG[410850]=""; //DRAGON QUEST HEROES Slime Edition
-WG[574050]=""; //DRAGON QUEST HEROES™ II
+WG[410850]="not tested"; //DRAGON QUEST HEROES Slime Edition
+WG[574050]="not tested"; //DRAGON QUEST HEROES™ II
+
+WG[13520]="platinum"; //Far Cry
+WG[19900]="platinum"; //Far Cry 2  //fortune edition
+WG[220240]="platinum"; //Far Cry 3
+WG[233270]="platinum"; //Far Cry 3 - Blood Dragon
+WG[298110]="bronze"; //Far Cry® 4
+WG[371660]="garbage"; //Far Cry® Primal
+WG[552520]="garbage"; //Far Cry® 5
+
+WG[3910]="gold-issues"; //Sid Meier's Civilization® III Complete //silver on steam, double check it
+WG[8800]="platinum"; //Civilization IV: Beyond the Sword
+WG[16810]="platinum"; ///Sid Meier's Civilization IV: Colonization
+
+WG[6220]="platinum-gog"; //FlatOut//tem no gog
+WG[12360]="platinum"; //FlatOut: Ultimate Carnage
+WG[2990]="platinum-gog"; //FlatOut 2™ (tem no GOG)
+WG[201510]="platinum"; //Flatout 3: Chaos & Destruction
+
+WG[411960]="platinum"; //TY the Tasmanian Tiger
+WG[411970]="not tested"; //TY the Tasmanian Tiger 2
+
+WG[22100]="platinum"; //Mount & Blade
+WG[48720]="not tested"; //Mount & Blade: With Fire & Sword
+
+WG[237110]="platinum"; //Mortal Kombat Komplete Edition
+WG[307780]="bronze"; //Mortal Kombat X
+
+//WG[]="gold"; //NBA 2K14
+WG[370240]="not tested"; //NBA 2K16
+WG[385760]="not tested"; //NBA 2K17
+WG[577800]="not tested"; //NBA 2K18
+WG[519490]="not tested"; //NBA 2KVR Experience
+
+WG[209000]="silver"; //Batman™: Arkham Origins
+WG[35140]="gold"; //Batman: Arkham Asylum Game of the Year Edition
+//WG[267490]="not tested"; //Batman™: Arkham Origins Blackgate - Deluxe Edition
+//WG[200260]="not tested"; //Batman: Arkham City - Game of the Year Edition
+
+WG[47870]="silver"; //Need For Speed: Hot Pursuit
+WG[17430]="gold"; //Need for Speed Undercover
+WG[24870]="platinum"; //Need for Speed: Shift
+
+WG[23490]="platinum"; //Tropico 3 - Steam Special Edition
+WG[57690]="platinum"; //Tropico 4: Steam Special Edition
+
+WG[247580]="not tested"; //Magicka: Wizards of the Square Tablet
+WG[42910]="gold"; //Magicka
+
+WG[7670]="gold"; //BioShock
+WG[8850]="gold"; //Bioshcok 2
+
+WG[377710]="not tested"; //Idol Magical Girl Chiru Chiru Michiru Part 1
+WG[377720]="not tested"; //Idol Magical Girl Chiru Chiru Michiru Part 2
+
+WG[12220]="gold"; //Grand Theft Auto: Episodes from Liberty City
+WG[901583]="silver"; //Grand Theft Auto IV: Complete Edition
+
+WG[17440]="not tested"; //SPORE™ Creepy & Cute Parts Pack
+WG[24720]="not tested"; //SPORE™ Galactic Adventures
+
+WG[21000]="platinum"; //LEGO Batman
+WG[21130]="platinum"; //LEGO Harry Potter: Years 1-4
+WG[313690]="not tested"; //LEGO® Batman™3: Beyond Gotham
+WG[405310]="not tested"; //LEGO® MARVEL's Avengers
+WG[249130]="platinum"; //LEGO® Marvel Super Heroes 
+WG[647830]="not tested"; //LEGO® Marvel Super Heroes 2 
+WG[32330]="platinum"; //LEGO® Indiana Jones™: The Original Adventures
+WG[32450]="not tested"; //LEGO® Indiana Jones™ 2: The Adventure Continues
+WG[311770]="silver"; //LEGO® Pirates of the Caribbean: The Video Game
+WG[332310]="gold"; //LEGO® Worlds
+WG[438640]="gold"; //LEGO® STAR WARS™: The Force Awakens 
+WG[267530]="silver"; //The LEGO® Movie - Videogame
+
+WG[226320]=""; //Marvel Heroes 2016
+WG[433300]=""; //Marvel: Ultimate Alliance
+WG[433320]=""; //Marvel: Ultimate Alliance 2
+WG[493840]=""; //Marvel vs. Capcom: Infinite
+WG[357190]=""; //ULTIMATE MARVEL VS. CAPCOM 3
+WG[24200]=""; //DC Universe™ Online
+
+WG[319510]="platinum";  //Five Nights at Freddy's 
+WG[332800]="platinum";  //Five Nights at Freddy's 2
+WG[354140]="bronze"; //Five Nights at Freddy's 3 //Really?
+WG[388090]="platinum"; //Five Nights at Freddy's 4
+
+WG[21660]="gold"; //Street Fighter® IV
+WG[310950]="garbage"; //Street Fighter V
+
+WG[41050]="gold"; //Serious Sam Classic: The First Encounter //wait for the vulkan
+WG[41060]="platinum"; //Serious Sam Classic: The Second Encounter //wait for the vulkan
+WG[227780]="not found"; //Serious Sam Classics: Revolution //wait for the vulkan
+
+WG[63710]="platinum"; //BIT.TRIP RUNNER
+WG[205070]="not found"; //BIT.TRIP VOID
 
 WG[255260]=""; //Pro Cycling Manager 2014
 WG[408760]=""; //Pro Cycling Manager 2016
@@ -208,42 +302,9 @@ WG[408760]=""; //Pro Cycling Manager 2016
 WG[268260]=""; //Let's Sing
 WG[397820]=""; //Let's Sing 2016
 
-WG[32310]=""; //Indiana Jones® and the Last Crusade™
-WG[32310]=""; //Indiana Jones® and the Last Crusade™
-
-WG[13520]=""; //Far Cry
-WG[371660]=""; //Far Cry® Primal
-WG[220240]=""; //Far Cry 3
-WG[298110]=""; //Far Cry® 4
-WG[233270]=""; //Far Cry 3 - Blood Dragon
-WG[552520]=""; //Far Cry® 5
-
-WG[3910]=""; //Sid Meier's Civilization® III Complete
-WG[8800]=""; //Civilization IV: Beyond the Sword
-WG[16810]=""; ///Sid Meier's Civilization IV: Colonization
-
-WG[6220]=""; //FlatOut//tem no gog
-WG[12360]=""; //FlatOut: Ultimate Carnage
-WG[2990]=""; //FlatOut 2™ (tem no GOG)
-WG[201510]=""; //Flatout 3: Chaos & Destruction
-
-WG[411960]=""; //TY the Tasmanian Tiger
-WG[411970]=""; //TY the Tasmanian Tiger 2
-
-WG[22100]=""; //Mount & Blade
-WG[48720]=""; //Mount & Blade: With Fire & Sword
-
-WG[237110]=""; //Mortal Kombat Komplete Edition
-WG[307780]=""; //Mortal Kombat X
-
 WG[394160]=""; //ARCADE GAME SERIES: PAC-MAN
 WG[403400]=""; //ARCADE GAME SERIES: DIG DUG
 WG[403430]=""; ///ARCADE GAME SERIES: GALAGA
-
-WG[370240]=""; //NBA 2K16
-WG[385760]=""; //NBA 2K17
-WG[577800]=""; //NBA 2K18
-WG[519490]=""; //NBA 2KVR Experience
 
 WG[32430]=""; //STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition
 WG[32500]=""; //STAR WARS™: The Force Unleashed™ II
@@ -259,69 +320,9 @@ WG[32470]=""; //STAR WARS™ Empire at War - Gold Pack (gog?)
 WG[456540]=""; //STAR WARS™: Rebel Assault I + II (gog?)
 WG[361670]=""; ///STAR WARS™ - X-Wing Alliance™ (gog?)
 
-WG[209000]=""; //Batman™: Arkham Origins
-WG[267490]=""; //Batman™: Arkham Origins Blackgate - Deluxe Edition
-WG[35140]=""; //Batman: Arkham Asylum Game of the Year Edition
-WG[200260]=""; //Batman: Arkham City - Game of the Year Edition
-
-WG[63710]=""; //BIT.TRIP RUNNER
-WG[205070]=""; //BIT.TRIP VOID
-
-WG[47870]=""; //Need For Speed: Hot Pursuit
-WG[17430]=""; //Need for Speed Undercover
-WG[24870]=""; //Need for Speed: Shift
-
-WG[23490]=""; //Tropico 3 - Steam Special Edition
-WG[57690]=""; //Tropico 4: Steam Special Edition
-
-WG[247580]=""; //Magicka: Wizards of the Square Tablet
-WG[42910]=""; //Magicka
-
-WG[7670]=""; //BioShock
-WG[8850]=""; //Bioshcok 2
-
-WG[21000]=""; //LEGO Batman
-WG[21130]=""; //LEGO Harry Potter: Years 1-4
-WG[313690]=""; //LEGO® Batman™3: Beyond Gotham
-WG[405310]=""; //LEGO® MARVEL's Avengers
-WG[647830]=""; //LEGO® Marvel Super Heroes 2
-WG[32450]=""; //LEGO® Indiana Jones™ 2: The Adventure Continues
-WG[311770]=""; //LEGO® Pirates of the Caribbean: The Video Game
-WG[32330]=""; //LEGO® Indiana Jones™: The Original Adventures
-WG[332310]=""; //LEGO® Worlds
-WG[438640]=""; //LEGO® STAR WARS™: The Force Awakens 
-WG[267530]=""; //The LEGO® Movie - Videogame
-
 WG[4570]=""; //Warhammer® 40,000: Dawn of War® - Game of the Year Edition
 WG[4580]=""; //Warhammer® 40,000: Dawn of War® - Dark Crusade
-
-WG[377710]=""; //Idol Magical Girl Chiru Chiru Michiru Part 1
-WG[377720]=""; //Idol Magical Girl Chiru Chiru Michiru Part 2
-
-WG[12220]=""; //Grand Theft Auto: Episodes from Liberty City
-WG[901583]=""; //Grand Theft Auto IV: Complete Edition
-
-WG[17440]=""; //SPORE™ Creepy & Cute Parts Pack
-WG[24720]=""; //SPORE™ Galactic Adventures
-
-WG[226320]=""; //Marvel Heroes 2016
-WG[433300]=""; //Marvel: Ultimate Alliance
-WG[433320]=""; //Marvel: Ultimate Alliance 2
-WG[493840]=""; //Marvel vs. Capcom: Infinite
-WG[357190]=""; //ULTIMATE MARVEL VS. CAPCOM 3
-WG[24200]=""; //DC Universe™ Online
-
-WG[388090]=""; //Five Nights at Freddy's 4
-WG[354140]=""; //Five Nights at Freddy's 3
-
-WG[310950]=""; //Street Fighter V
-WG[21660]=""; //Street Fighter® IV
-
-WG[41050]=""; //Serious Sam Classic: The First Encounter
-WG[41060]=""; //Serious Sam Classic: The Second Encounter
-WG[227780]=""; //Serious Sam Classics: Revolution
-
-
+//need more warhamer series
 
 ////////////////////////////
 WG[571260]=""; //THE KING OF FIGHTERS XIV STEAM EDITION
@@ -334,6 +335,7 @@ WG[312610]=""; //METAL SLUG X //gog ou humble
 WG[366260]=""; //METAL SLUG 2
 WG[366250]=""; //METAL SLUG
 
+WG[32310]="gog"; //Indiana Jones® and the Last Crusade™
 ////////////////////////////
 WG[323470]="platinum"; //// DRAGON BALL XENOVERSE 
 WG[454650]="bronze"; //// DRAGON BALL XENOVERSE 2
