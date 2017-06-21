@@ -103,66 +103,66 @@ WG[12140]="platinum"; //Max Payne
 WG[12150]="platinum"; //Max Payne 2: The Fall of Max Payne
 WG[204100]="platinum"; //Max Payne 3
 ////////////////////////////
-WG[363110]=""; //NOBUNAGA'S AMBITION: Tendou with Power Up Kit
-WG[375450]=""; //NOBUNAGA'S AMBITION: Sphere of Influence - Ascension
+WG[363110]="not tested"; //NOBUNAGA'S AMBITION: Tendou with Power Up Kit
+WG[375450]="platinum"; //NOBUNAGA'S AMBITION: Sphere of Influence - Ascension
 
-WG[238010]=""; //Deus Ex: Human Revolution - Director's Cut
-WG[258180]=""; //Deus Ex: The Fall
+WG[238010]="silver"; //Deus Ex: Human Revolution - Director's Cut
+WG[258180]="gold"; //Deus Ex: The Fall
 
-WG[22380]=""; //Fallout: New Vegas
-WG[588430]=""; //Fallout Shelter
-WG[22300]=""; //Fallout 3
+WG[22380]="platinum"; //Fallout: New Vegas
+WG[588430]="??"; //Fallout Shelter
+WG[22300]="platinum"; //Fallout 3 (1 & 2  platinum)
 
-WG[65790]=""; //ARMA: Cold War Assault
-WG[33900]=""; //arma 2
-WG[33930]=""; //Arma 2: Operation Arrowhead
-WG[107410]=""; //Arma 3
-WG[233800]=""; //Arma 3 Tools
+WG[65790]="platinum"; //ARMA: Cold War Assault
+WG[33900]="silver"; //arma 2
+WG[33930]="silver"; //Arma 2: Operation Arrowhead
+WG[107410]="garbage"; //Arma 3
+WG[233800]="not found"; //Arma 3 Tools
 
-WG[460930]=""; //Tom Clancy's Ghost Recon® Wildlands
-WG[365590]=""; //Tom Clancy’s The Division™
+WG[460930]="platinum"; //Tom Clancy's Ghost Recon® Wildlands
+WG[365590]="not found"; //Tom Clancy’s The Division™
 
-WG[221380]=""; //Age of Empires II HD
-WG[105450]=""; //Age of Empires® III: Complete Collection
+WG[221380]="platinum"; //Age of Empires II HD
+WG[105450]="not found"; //Age of Empires® III: Complete Collection
 
-WG[17300]=""; //Crysis
-WG[17330]=""; //Crysis Warhead
+WG[17300]="platinum"; //Crysis
+WG[17330]="not found"; //Crysis Warhead
 
-WG[488790]=""; //South Park™: The Fractured but Whole™
-WG[213670]=""; //South Park™: The Stick of Truth™
+//WG[488790]=""; //South Park™: The Fractured but Whole™ //not launched
+WG[213670]="platinum"; //South Park™: The Stick of Truth™
 
-WG[207610]=""; //The Walking Dead
-WG[261030]=""; //The Walking Dead: Season 2
-WG[536220]=""; //The Walking Dead: A New Frontier
-WG[429570]=""; //The Walking Dead: Michonne - A Telltale Miniseries
+WG[207610]="platinum"; //The Walking Dead
+WG[261030]="platinum"; //The Walking Dead: Season 2
+//WG[536220]=""; //The Walking Dead: A New Frontier //seasson 3??
+WG[429570]="platinum"; //The Walking Dead: Michonne - A Telltale Miniseries
 
-WG[207350]=""; //Ys Origin
-WG[223810]=""; //Ys I & II Chronicles+
-WG[579180]=""; ///Ys VIII: Lacrimosa of DANA
+WG[207350]="platinum"; //Ys Origin
+WG[223810]="platinum-issues"; //Ys I & II Chronicles+  //2 is platinum but the combo was not tested
+WG[579180]="not tested"; ///Ys VIII: Lacrimosa of DANA
 
-WG[21980]=""; //Call of Juarez®: Bound in Blood
-WG[33420]=""; //Call of Juarez®: The Cartel
-WG[204450]=""; //Call of Juarez® Gunslinger
+WG[21980]="gold"; //Call of Juarez®: Bound in Blood
+WG[33420]="garbage"; //Call of Juarez®: The Cartel
+WG[204450]="gold"; //Call of Juarez® Gunslinger
 
-WG[405820]=""; //Turok
-WG[405830]=""; //Turok 2
+WG[405820]="gold"; //Turok
+WG[405830]="platinum"; //Turok 2
 
-WG[240600]=""; //MotoGP™13
-WG[355130]=""; //MotoGP™15
+WG[240600]="not found"; //MotoGP™13
+WG[355130]="not found"; //MotoGP™15
 
-WG[411830]=""; //SENRAN KAGURA SHINOVI VERSUS
-WG[514310]=""; //SENRAN KAGURA Bon Appétit! - Full Course
-WG[502800]=""; //SENRAN KAGURA ESTIVAL VERSUS
+WG[411830]="silver"; //SENRAN KAGURA SHINOVI VERSUS
+WG[514310]="not tested"; //SENRAN KAGURA Bon Appétit! - Full Course
+WG[502800]="not tested"; //SENRAN KAGURA ESTIVAL VERSUS
 
-WG[44360]=""; //F1 2011
-WG[226580]=""; //F1 2014
-WG[391040]=""; //F1 2016
-WG[515220]=""; //F1™ 2017
+WG[44360]="garbage"; //F1 2011 //2012 garbage
+WG[226580]="garbage"; //F1 2014
+WG[391040]="garbage"; //F1 2016
+WG[515220]="garbage"; //F1™ 2017
 
-WG[4760]=""; //Rome: Total War - Collection
-WG[34030]=""; //Napoleon: Total War
-WG[345240]=""; //SHOGUN: Total War™ - Collection
-WG[4770]=""; //Rome: Total War™ - Alexander
+WG[4760]="platinum"; //Rome: Total War - Collection
+WG[34030]="gold"; //Napoleon: Total War
+WG[345240]="bronze"; //SHOGUN: Total War™ - Collection
+WG[4770]="garbage"; //Rome: Total War™ - Alexander
 
 ////////////////////////////
 WG[571260]=""; //THE KING OF FIGHTERS XIV STEAM EDITION
