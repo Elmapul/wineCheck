@@ -24,6 +24,7 @@ WG[35130]="platinum";//Lara Croft and the Guardian of Light
 WG[391220]="bronze";//Rise of Tomb Raider
 
 
+
 WG[261570]="platinum";//ori and the blind forest
 WG[387290]="platinum";//ori and the blind forest definitive edition
 //WG[]="";//ori and the Will of the Wisps
@@ -112,7 +113,8 @@ WG[359310]="gold";//evoland2
 
 WG[372360]="bronze";//Tales of Symphonia
 WG[351970]="platinum";//351970 Tales of Zestiria
-WG[429660]="untested";// Tales of Berseria™
+WG[429660]="gold-issues"; // gold-Used cpy crack, to disable denuvo. //Tales of Berseria
+
 
 WG[263300]="gold";//BlazBlue: calamity Trigger
 WG[294810]="gold";//BlazBlue: Continuum Shift Extended
@@ -224,12 +226,24 @@ WG[277890]="gold";//Shantae: Risky's Revenge - Director's Cut
 WG[345820]="gold";//Shantae and the Pirate's Curse
 WG[204030]="gold";//Fable - The Lost Chapters
 WG[288470]="platinum";//Fable Aniversary
+
+
 WG[203140]="silver";//Hitman: Absolution
+WG[247430]="platinum";  //Hitman: Contracts
+WG[6860]="platinum";  //Hitman: Blood Money
+WG[6850]="platinum";  //Hitman 2: Silent Assassin
+
+
 //WG[]="untested";//Hitman: Sniper Challenge
 
 //platinum
+WG[204360]="platinum";  //Castle Crashers
+WG[405900]="platinum";  //Disgaea PC
 WG[428550]="platinum";//Momodora: Reverie Under the Moonlight //
 WG[411370]="platinum";//Melty Blood Actress Again Current Code
+
+
+
 
 //gold
 WG[243060]="gold";//Urban Chaos
@@ -238,6 +252,10 @@ WG[19000]="gold";//Silent Hill: Homecoming
 
 WG[368160]="gold";//WORLD END ECONOMiCA episode.02
 WG[527190]="gold";//WORLD END ECONOMiCA episode.03
+
+WG[412830]="gold";  //STEINS;GATE
+
+
 
 
 ///silver
@@ -255,6 +273,10 @@ WG[347830]="bronze";//Fairy Fencer F
 WG[524580]="bronze";//Fairy Fencer F Advent Dark Force 
 WG[243470]="bronze";//Watch Dogs
 WG[237890]="bronze";//Agarest Zero Generation of war 
+
+WG[524220]="bronze";//NieR:Automata
+
+
 
 WG[901147]="platinum";//Earthworm jim
 //WG[]="";//Earthworm Jim 2
