@@ -90,7 +90,7 @@ WG[241260]="gold"; //Sherlock Holmes: Crimes and Punishments
 //WG[374010]=""; //Sherlock Holmes Consulting Detective: The Case of the Mummy's Curse
 //WG[376790]=""; //Sherlock Holmes Consulting Detective: The Case of the Mystified Murderess
 //WG[350640]=""; //Sherlock Holmes: The Devil's Daughter
-////////////////////////////
+
 
 WG[31220]="gold"; //Sam & Max 301: The Penal Zone
 WG[31230]="not tested"; //Sam & Max 302: The Tomb of Sammun-Mak
@@ -102,7 +102,80 @@ WG[901660]="not found"; //Sam & Max: Season One
 WG[12140]="platinum"; //Max Payne
 WG[12150]="platinum"; //Max Payne 2: The Fall of Max Payne
 WG[204100]="platinum"; //Max Payne 3
+////////////////////////////
+WG[363110]=""; //NOBUNAGA'S AMBITION: Tendou with Power Up Kit
+WG[375450]=""; //NOBUNAGA'S AMBITION: Sphere of Influence - Ascension
 
+WG[238010]=""; //Deus Ex: Human Revolution - Director's Cut
+WG[258180]=""; //Deus Ex: The Fall
+
+WG[22380]=""; //Fallout: New Vegas
+WG[588430]=""; //Fallout Shelter
+WG[22300]=""; //Fallout 3
+
+WG[65790]=""; //ARMA: Cold War Assault
+WG[33900]=""; //arma 2
+WG[33930]=""; //Arma 2: Operation Arrowhead
+WG[107410]=""; //Arma 3
+WG[233800]=""; //Arma 3 Tools
+
+WG[460930]=""; //Tom Clancy's Ghost Recon® Wildlands
+WG[365590]=""; //Tom Clancy’s The Division™
+
+WG[221380]=""; //Age of Empires II HD
+WG[105450]=""; //Age of Empires® III: Complete Collection
+
+WG[17300]=""; //Crysis
+WG[17330]=""; //Crysis Warhead
+
+WG[488790]=""; //South Park™: The Fractured but Whole™
+WG[213670]=""; //South Park™: The Stick of Truth™
+
+WG[207610]=""; //The Walking Dead
+WG[261030]=""; //The Walking Dead: Season 2
+WG[536220]=""; //The Walking Dead: A New Frontier
+WG[429570]=""; //The Walking Dead: Michonne - A Telltale Miniseries
+
+WG[207350]=""; //Ys Origin
+WG[223810]=""; //Ys I & II Chronicles+
+WG[579180]=""; ///Ys VIII: Lacrimosa of DANA
+
+WG[21980]=""; //Call of Juarez®: Bound in Blood
+WG[33420]=""; //Call of Juarez®: The Cartel
+WG[204450]=""; //Call of Juarez® Gunslinger
+
+WG[405820]=""; //Turok
+WG[405830]=""; //Turok 2
+
+WG[240600]=""; //MotoGP™13
+WG[355130]=""; //MotoGP™15
+
+WG[411830]=""; //SENRAN KAGURA SHINOVI VERSUS
+WG[514310]=""; //SENRAN KAGURA Bon Appétit! - Full Course
+WG[502800]=""; //SENRAN KAGURA ESTIVAL VERSUS
+
+WG[44360]=""; //F1 2011
+WG[226580]=""; //F1 2014
+WG[391040]=""; //F1 2016
+WG[515220]=""; //F1™ 2017
+
+WG[4760]=""; //Rome: Total War - Collection
+WG[34030]=""; //Napoleon: Total War
+WG[345240]=""; //SHOGUN: Total War™ - Collection
+WG[4770]=""; //Rome: Total War™ - Alexander
+
+////////////////////////////
+WG[571260]=""; //THE KING OF FIGHTERS XIV STEAM EDITION
+WG[222420]=""; //THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION
+WG[222940]=""; //THE KING OF FIGHTERS XIII STEAM EDITION
+WG[222440]=""; //THE KING OF FIGHTERS 2002 UNLIMITED MATCH
+
+WG[250180]=""; //METAL SLUG 3 //gog ou humble
+WG[312610]=""; //METAL SLUG X //gog ou humble
+WG[366260]=""; //METAL SLUG 2
+WG[366250]=""; //METAL SLUG
+
+////////////////////////////
 WG[323470]="platinum"; //// DRAGON BALL XENOVERSE 
 WG[454650]="bronze"; //// DRAGON BALL XENOVERSE 2
 WG[17390]="platinum"; // Spore
